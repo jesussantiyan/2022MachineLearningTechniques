@@ -1,4 +1,4 @@
-# Machine Learning Techniques Portfolio
+# Machine Learning Techniques
 Repository for the machine learning assignment
 
 # Project 1: Unsupervised learning
